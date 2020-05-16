@@ -8,6 +8,7 @@
     <title>Curso Git</title>
 </head>
 <body>
-    <h1>Comandos</h1>
+    <h1>Hola Mundo</h1>
+
 </body>
 </html>
