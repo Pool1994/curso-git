@@ -9,6 +9,6 @@
 </head>
 <body>
     <h1>Hola Mundo</h1>
-
+    <script src="app.js"></script>
 </body>
 </html>
